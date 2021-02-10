@@ -14,7 +14,7 @@
 快乐的小豌豌（https://space.bilibili.com/360140750
 ）维护。github上的PlantsVsZombies.exe是6.15.01版本。
 
-如果您需要各种内测版本，请访问https://github.com/hpszsp/pvz-beta
+如果您需要各种内测版本，请访问https://github.com/hpszsp/pvz-beta-unstable
 ；
 如果您需要旧版的正式版，请访问https://github.com/hpszsp/pvz-beta-unstable/tree/main/stable
 。
