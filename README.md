@@ -12,6 +12,9 @@
 
 此github由
 快乐的小豌豌（https://space.bilibili.com/360140750
-）维护。github上的PlantsVsZombies.exe是6.15.01版本
+）维护。github上的PlantsVsZombies.exe是6.15.01版本。
+
+github上次更新的日期是：2021/2/10
 
 此版本是开箱即用的。但如果您需要教程，使用教程的链接是https://www.bilibili.com/video/BV1vi4y137oF
+。
