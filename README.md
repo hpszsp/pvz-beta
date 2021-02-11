@@ -19,7 +19,5 @@
 如果您需要旧版的正式版，请访问https://github.com/hpszsp/pvz-beta-unstable/tree/main/stable
 。
 
-github上次更新的日期是：2021/2/10
-
 此版本是开箱即用的。但如果您需要教程，使用教程的链接是https://www.bilibili.com/video/BV1vi4y137oF
 。
